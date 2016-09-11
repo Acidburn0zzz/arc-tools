@@ -21,8 +21,12 @@
     "url": "git://github.com/advanced-rest-client/arc-tools.git"
   },
   "dependencies": {
+    "cli-spinner": "^0.2.5",
+    "colors": "^1.1.2",
     "commander": "^2.9.0",
+    "exec": "^0.2.1",
     "git": "^0.1.5",
+    "gulp-git": "^1.11.3",
     "node-fetch": "^1.6.0",
     "update-notifier": "^1.0.0"
   },

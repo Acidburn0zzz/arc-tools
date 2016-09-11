@@ -13,7 +13,10 @@ const packageJson = require('../package.json');
 updateNotifier({pkg: packageJson}).notify();
 
 program
-  .version('0.0.1')
-  .command('clone', 'Clone all advanced-rest-client repositories into current folder.')
+  .version(packageJson.version)
+  .description('The ARC developer tools')
+  .command('clone <component> [otherComponents...]',
+    'Clone or pull advanced-rest-client repositories into the current folder. If none of the ' +
+    'components are cpecified then all components will be cloned / updated.')
   .command('catalog [command]', 'Run an ARC\'s catalog command')
   .parse(process.argv);
