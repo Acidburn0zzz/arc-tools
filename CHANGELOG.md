@@ -1,3 +1,17 @@
+<a name="1.0.1"></a>
+## 1.0.1 (2016-09-11)
+
+
+### Breaking
+
+* Change in the API ([8bc3a8607fce51c8298aa6a3a9a81d499e4673d1](https://github.com/advanced-rest-client/arc-tools/commit/8bc3a8607fce51c8298aa6a3a9a81d499e4673d1))
+
+### New
+
+* Added new commands ([0221c132fbd2e6b74c65e146f3f777a90dae3c22](https://github.com/advanced-rest-client/arc-tools/commit/0221c132fbd2e6b74c65e146f3f777a90dae3c22))
+
+
+
 <a name="1.0.7"></a>
 ## [1.0.7](https://github.com/advanced-rest-client/polymd/compare/1.0.6...v1.0.7) (2016-09-10)
 
