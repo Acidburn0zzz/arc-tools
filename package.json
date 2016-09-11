@@ -27,6 +27,7 @@
     "exec": "^0.2.1",
     "git": "^0.1.5",
     "gulp-git": "^1.11.3",
+    "hydrolysis": "^1.24.1",
     "node-fetch": "^1.6.0",
     "update-notifier": "^1.0.0"
   },

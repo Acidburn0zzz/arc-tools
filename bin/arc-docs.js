@@ -2,37 +2,38 @@
 
 'use strict';
 
-process.title = 'arc-clone';
+process.title = 'arc-docs';
 
-const clone = require('../lib/arc-clone');
 const program = require('commander');
 const colors = require('colors/safe');
+const docs = require('../lib/arc-docs');
 
 program
   .usage('[options] [components...]')
-  .option('-S, --ssh', 'force ssh git path')
-  .option('-A, --all', 'clone all repositories')
+  .option('-A, --all', 'Generate docs for all components')
+  .option('--verbose', 'Display messages')
   .parse(process.argv);
 
 var pkgs = program.args;
 console.log();
 if (!pkgs.length && !program.all) {
-  console.log(colors.red('  No components specified. Use --all to clone all components.'));
+  console.log(colors.red('  No components specified. Use --all to process all components.'));
   program.outputHelp();
   process.exit(1);
 }
 var opts = {
-  ssh: program.ssh || false,
-  all: program.all || false
+  all: program.all || false,
+  verbose: program.verbose || false
 };
 if (!program.all) {
   opts.components = pkgs;
 }
 try {
-  const script = new clone.ArcClone(opts);
+  const script = new docs.ArcDocs(opts);
   script.run();
 } catch (e) {
   console.log(colors.red('  ' + e.message));
+  console.log(e.stack);
   program.outputHelp();
   process.exit(1);
 }

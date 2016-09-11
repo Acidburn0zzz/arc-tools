@@ -16,7 +16,7 @@ program
   .version(packageJson.version)
   .description('The ARC developer tools')
   .command('clone <component> [otherComponents...]',
-    'Clone or pull advanced-rest-client repositories into the current folder. If none of the ' +
-    'components are cpecified then all components will be cloned / updated.')
+    'Clone or pull advanced-rest-client repositories into the current folder.')
   .command('catalog [command]', 'Run an ARC\'s catalog command')
+  .command('docs <component> [otherComponents...]', 'Generate docs for given components')
   .parse(process.argv);
