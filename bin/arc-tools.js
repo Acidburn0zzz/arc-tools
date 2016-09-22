@@ -19,4 +19,6 @@ program
     'Clone or pull advanced-rest-client repositories into the current folder.')
   .command('catalog [command]', 'Run an ARC\'s catalog command')
   .command('docs <component> [otherComponents...]', 'Generate docs for given components')
+  .command('release <target>',
+    'Build the app for give <release>, update git repository and publish the app in the store.')
   .parse(process.argv);

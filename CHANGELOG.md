@@ -1,3 +1,17 @@
+<a name="1.0.2"></a>
+## [1.0.2](https://github.com/advanced-rest-client/arc-tools/compare/1.0.1...v1.0.2) (2016-09-20)
+
+
+### Fix
+
+* Fixed double dependency entry ([ff855c2a6301945e6d2e90d2f6450471a973660c](https://github.com/advanced-rest-client/arc-tools/commit/ff855c2a6301945e6d2e90d2f6450471a973660c))
+
+### New
+
+* Added release builder ([61a812c1325d0923f8a7f057bd7417e269a9c678](https://github.com/advanced-rest-client/arc-tools/commit/61a812c1325d0923f8a7f057bd7417e269a9c678))
+
+
+
 <a name="1.0.1"></a>
 ## 1.0.1 (2016-09-11)
 
