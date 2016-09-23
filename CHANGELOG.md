@@ -1,3 +1,13 @@
+<a name="1.0.4"></a>
+## [1.0.4](https://github.com/advanced-rest-client/arc-tools/compare/1.0.3...v1.0.4) (2016-09-23)
+
+
+### Update
+
+* Changed docs method, now it can work in a component directory ([1db9713f567c89a3a7def68ac87356541b326503](https://github.com/advanced-rest-client/arc-tools/commit/1db9713f567c89a3a7def68ac87356541b326503))
+
+
+
 <a name="1.0.3"></a>
 ## [1.0.3](https://github.com/advanced-rest-client/arc-tools/compare/1.0.2...v1.0.3) (2016-09-22)
 
