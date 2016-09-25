@@ -1,3 +1,23 @@
+<a name="1.0.5"></a>
+## [1.0.5](https://github.com/advanced-rest-client/arc-tools/compare/1.0.1...v1.0.5) (2016-09-25)
+
+
+### Fix
+
+* Fixed double dependency entry ([ff855c2a6301945e6d2e90d2f6450471a973660c](https://github.com/advanced-rest-client/arc-tools/commit/ff855c2a6301945e6d2e90d2f6450471a973660c))
+* Fixed GitHub API usare requirement to provide repo name as a User-Agent header ([1aedeb5008ee38e529a9fc648528c44903162abf](https://github.com/advanced-rest-client/arc-tools/commit/1aedeb5008ee38e529a9fc648528c44903162abf))
+
+### New
+
+* Added command to rebuild catalog's structure ([d6ba1e0100518eeb4f923b846e65405b8a172841](https://github.com/advanced-rest-client/arc-tools/commit/d6ba1e0100518eeb4f923b846e65405b8a172841))
+* Added release builder ([61a812c1325d0923f8a7f057bd7417e269a9c678](https://github.com/advanced-rest-client/arc-tools/commit/61a812c1325d0923f8a7f057bd7417e269a9c678))
+
+### Update
+
+* Changed docs method, now it can work in a component directory ([1db9713f567c89a3a7def68ac87356541b326503](https://github.com/advanced-rest-client/arc-tools/commit/1db9713f567c89a3a7def68ac87356541b326503))
+
+
+
 <a name="1.0.4"></a>
 ## [1.0.4](https://github.com/advanced-rest-client/arc-tools/compare/1.0.3...v1.0.4) (2016-09-23)
 
