@@ -21,4 +21,6 @@ program
   .command('docs <component> [otherComponents...]', 'Generate docs for given components')
   .command('release <target>',
     'Build the app for give <release>, update git repository and publish the app in the store.')
+  .command('structure [component] [otherComponents...]',
+    'Update structure database for the elements catalog.')
   .parse(process.argv);
