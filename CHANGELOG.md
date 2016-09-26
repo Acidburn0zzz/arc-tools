@@ -1,3 +1,22 @@
+<a name="1.0.6"></a>
+## [1.0.6](https://github.com/advanced-rest-client/arc-tools/compare/1.0.4...v1.0.6) (2016-09-26)
+
+
+### Fix
+
+* Fixed GitHub API usare requirement to provide repo name as a User-Agent header ([1aedeb5008ee38e529a9fc648528c44903162abf](https://github.com/advanced-rest-client/arc-tools/commit/1aedeb5008ee38e529a9fc648528c44903162abf))
+* fixed project doubled  dependencies ([f73f4e2fa742aded634327e92f9498d9a6b59656](https://github.com/advanced-rest-client/arc-tools/commit/f73f4e2fa742aded634327e92f9498d9a6b59656))
+
+### New
+
+* Added command to rebuild catalog's structure ([d6ba1e0100518eeb4f923b846e65405b8a172841](https://github.com/advanced-rest-client/arc-tools/commit/d6ba1e0100518eeb4f923b846e65405b8a172841))
+
+### Update
+
+* removed unused or redundant dependencies ([63e092907edbadec118f7be9a673082be21789aa](https://github.com/advanced-rest-client/arc-tools/commit/63e092907edbadec118f7be9a673082be21789aa))
+
+
+
 <a name="1.0.5"></a>
 ## [1.0.5](https://github.com/advanced-rest-client/arc-tools/compare/1.0.1...v1.0.5) (2016-09-25)
 
