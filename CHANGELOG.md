@@ -1,3 +1,13 @@
+<a name="1.0.7"></a>
+## [1.0.7](https://github.com/advanced-rest-client/arc-tools/compare/1.0.6...v1.0.7) (2016-09-26)
+
+
+### New
+
+* Added stage command ([a7f2be36ab59534ded3a865aab2a2d0c17018914](https://github.com/advanced-rest-client/arc-tools/commit/a7f2be36ab59534ded3a865aab2a2d0c17018914))
+
+
+
 <a name="1.0.6"></a>
 ## [1.0.6](https://github.com/advanced-rest-client/arc-tools/compare/1.0.4...v1.0.6) (2016-09-26)
 
