@@ -43,7 +43,12 @@ if (!program.all) {
 }
 try {
   const script = new docs.ArcDocs(opts);
-  script.run();
+  script.run().then(() => {
+    process.exit(0);
+  }).catch((err) => {
+    console.log(colors.red('  ' + err.message));
+    process.exit(1);
+  });
 } catch (e) {
   console.log(colors.red('  ' + e.message));
   console.log(e.stack);

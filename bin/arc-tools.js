@@ -23,4 +23,6 @@ program
     'Build the app for give <release>, update git repository and publish the app in the store.')
   .command('structure [component] [otherComponents...]',
     'Update structure database for the elements catalog.')
+  .command('stage',
+    'CI command. Sends current buid to the stage branch.')
   .parse(process.argv);
