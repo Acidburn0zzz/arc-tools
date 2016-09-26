@@ -1,3 +1,13 @@
+<a name="1.0.8"></a>
+## [1.0.8](https://github.com/advanced-rest-client/arc-tools/compare/1.0.7...v1.0.8) (2016-09-26)
+
+
+### Fix
+
+* Added ssh keys support ([0648d18c2e5d62c1028eeeb8088f18680eae96da](https://github.com/advanced-rest-client/arc-tools/commit/0648d18c2e5d62c1028eeeb8088f18680eae96da))
+
+
+
 <a name="1.0.7"></a>
 ## [1.0.7](https://github.com/advanced-rest-client/arc-tools/compare/1.0.6...v1.0.7) (2016-09-26)
 
