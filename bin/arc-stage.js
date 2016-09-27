@@ -9,18 +9,22 @@ const program = require('commander');
 const colors = require('colors/safe');
 
 program
+  .usage('[options] <component>')
   .option('--verbose', 'Display messages')
-  .option('--test', 'Perform a test')
+  .option('--working-dir <dir>', 'Make build on this directory.')
   .parse(process.argv);
 
-var opts = {
-};
-
-if (program.test) {
-  process.env.TRAVIS_PULL_REQUEST = false;
-  process.env.TRAVIS_BRANCH = 'stage';
-  opts.test = true;
+var pkg = program.args;
+if (pkg.length > 1 || pkg.length === 0) {
+  console.log(colors.red('  Invalid number of components. Only one is allowed.'));
+  program.outputHelp();
+  process.exit(1);
 }
+var opts = {
+  component: pkg[0],
+  workingDir: program.workingDir || undefined,
+  verbose: program.verbose || false
+};
 
 try {
   const script = new stage.ArcStage(opts);
