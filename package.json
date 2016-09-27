@@ -29,6 +29,8 @@
     "fsensure": "^1.1.2",
     "git": "^0.1.5",
     "googleapis": "^13.0.0",
+    "gulp": "^3.8.5",
+    "gulp-bump": "^2.1.0",
     "gulp-conventional-changelog": "^1.1.0",
     "gulp-git": "^1.11.3",
     "gulp-usemin": "^0.3.24",
@@ -49,8 +51,6 @@
     "zip-folder": "^1.0.0"
   },
   "devDependencies": {
-    "gulp": "^3.8.5",
-    "gulp-bump": "^2.1.0",
     "gulp-html-extract": "^0.0.3",
     "gulp-if": "^2.0.0",
     "gulp-jshint": "^1.6.3",
