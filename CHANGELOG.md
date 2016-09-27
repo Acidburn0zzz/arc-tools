@@ -1,3 +1,13 @@
+<a name="1.0.10"></a>
+## [1.0.10](https://github.com/advanced-rest-client/arc-tools/compare/1.0.9...v1.0.10) (2016-09-27)
+
+
+### Fix
+
+* fixing travis env variables usage ([c52b2b7e1abb29f9f066403adc49faef7a1bbb3d](https://github.com/advanced-rest-client/arc-tools/commit/c52b2b7e1abb29f9f066403adc49faef7a1bbb3d))
+
+
+
 <a name="1.0.9"></a>
 ## [1.0.9](https://github.com/advanced-rest-client/arc-tools/compare/1.0.8...v1.0.9) (2016-09-26)
 
