@@ -25,4 +25,8 @@ program
     'Update structure database for the elements catalog.')
   .command('stage',
     'CI command. Sends current buid to the stage branch.')
+  .command('bump <version>',
+    'Bump version of the element.')
+  .command('changelog',
+    'Generate changelog for current element.')
   .parse(process.argv);
