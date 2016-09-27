@@ -28,6 +28,7 @@ try {
     process.exit(0);
   }).catch((err) => {
     console.log(colors.red('  ' + err.message));
+    console.log(err);
     process.exit(1);
   });
 } catch (e) {
