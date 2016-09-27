@@ -1,3 +1,13 @@
+<a name="1.0.15"></a>
+## [1.0.15](https://github.com/advanced-rest-client/arc-tools/compare/1.0.14...v1.0.15) (2016-09-27)
+
+
+### Fix
+
+* Fixing dependencies ([fb75bc7a51031202ab7d2dd28957254b03d22879](https://github.com/advanced-rest-client/arc-tools/commit/fb75bc7a51031202ab7d2dd28957254b03d22879))
+
+
+
 <a name="1.0.14"></a>
 ## [1.0.14](https://github.com/advanced-rest-client/arc-tools/compare/1.0.13...v1.0.14) (2016-09-27)
 
