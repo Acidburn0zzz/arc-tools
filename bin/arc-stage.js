@@ -9,13 +9,18 @@ const program = require('commander');
 const colors = require('colors/safe');
 
 program
-  .option('-F, --force', 'Force commit even if it is not a pull request')
   .option('--verbose', 'Display messages')
+  .option('--test', 'Perform a test')
   .parse(process.argv);
 
 var opts = {
-  force: program.force || false
 };
+
+if (program.test) {
+  process.env.TRAVIS_PULL_REQUEST = false;
+  process.env.TRAVIS_BRANCH = 'stage';
+  opts.test = true;
+}
 
 try {
   const script = new stage.ArcStage(opts);
