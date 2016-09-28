@@ -25,7 +25,7 @@ program
     'Update structure database for the elements catalog.')
   .command('stage <component>',
     'CI command. Build element from stage branch.')
-  .command('master-release <component>',
+  .command('master-release',
     'CI command. Release element from master branch.')
   .command('bump <version>',
     'Bump version of the element.')

@@ -8,7 +8,7 @@ const program = require('commander');
 process.title = 'arc-master-release';
 
 program
-  .usage('[options] <component>')
+  .usage('[options]')
   .parse(process.argv);
 
 function release() {
@@ -27,14 +27,14 @@ function release() {
   });
 }
 
-var pkg = program.args;
-if (pkg.length > 1 || pkg.length === 0) {
-  console.log('  Invalid number of components. Only one is allowed.');
-  program.outputHelp();
-  process.exit(1);
-}
+// var pkg = program.args;
+// if (pkg.length > 1 || pkg.length === 0) {
+//   console.log('  Invalid number of components. Only one is allowed.');
+//   program.outputHelp();
+//   process.exit(1);
+// }
 
-release(pkg[0])
+release()
 .then(() => {
   process.exit(0);
 })
