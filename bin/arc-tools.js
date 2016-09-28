@@ -29,4 +29,6 @@ program
     'Bump version of the element.')
   .command('changelog',
     'Generate changelog for current element.')
+  .command('repo <command>',
+    'Perform an operation on ARC\'s GitHub repository.')
   .parse(process.argv);
