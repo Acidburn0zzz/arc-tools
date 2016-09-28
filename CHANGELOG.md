@@ -1,3 +1,13 @@
+<a name="1.0.22"></a>
+## [1.0.22](https://github.com/advanced-rest-client/arc-tools/compare/1.0.21...v1.0.22) (2016-09-28)
+
+
+### Fix
+
+* fixing CI command ([cf0654773069978edcec563e659558b65482306c](https://github.com/advanced-rest-client/arc-tools/commit/cf0654773069978edcec563e659558b65482306c))
+
+
+
 <a name="1.0.21"></a>
 ## [1.0.21](https://github.com/advanced-rest-client/arc-tools/compare/1.0.19...v1.0.21) (2016-09-28)
 
