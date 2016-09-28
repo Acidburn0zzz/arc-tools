@@ -1,3 +1,14 @@
+<a name="1.0.21"></a>
+## [1.0.21](https://github.com/advanced-rest-client/arc-tools/compare/1.0.19...v1.0.21) (2016-09-28)
+
+
+### New
+
+* Added master-release command ([a905667935ae5ac4d807e49a5caae46b21a978c2](https://github.com/advanced-rest-client/arc-tools/commit/a905667935ae5ac4d807e49a5caae46b21a978c2))
+* Added repo command ([4533db16772854bae21d3a5f0f48a902a0866186](https://github.com/advanced-rest-client/arc-tools/commit/4533db16772854bae21d3a5f0f48a902a0866186))
+
+
+
 <a name="1.0.20"></a>
 ## [1.0.20](https://github.com/advanced-rest-client/arc-tools/compare/1.0.5...v1.0.20) (2016-09-28)
 
