@@ -1,3 +1,30 @@
+<a name="1.0.20"></a>
+## [1.0.20](https://github.com/advanced-rest-client/arc-tools/compare/1.0.5...v1.0.20) (2016-09-28)
+
+
+### Fix
+
+* Added ssh keys support ([d6c2dd19635eb362e6ac9d8170c51e7616c4277e](https://github.com/advanced-rest-client/arc-tools/commit/d6c2dd19635eb362e6ac9d8170c51e7616c4277e))
+* Added ssh keys support ([0648d18c2e5d62c1028eeeb8088f18680eae96da](https://github.com/advanced-rest-client/arc-tools/commit/0648d18c2e5d62c1028eeeb8088f18680eae96da))
+* fixed project doubled  dependencies ([f73f4e2fa742aded634327e92f9498d9a6b59656](https://github.com/advanced-rest-client/arc-tools/commit/f73f4e2fa742aded634327e92f9498d9a6b59656))
+* Fixing dependencies ([b4d9086f52195763de96f464fb000d2c041a4a8b](https://github.com/advanced-rest-client/arc-tools/commit/b4d9086f52195763de96f464fb000d2c041a4a8b))
+* Fixing dependencies ([e35471329b09a3923580674631e77a1a716d62cc](https://github.com/advanced-rest-client/arc-tools/commit/e35471329b09a3923580674631e77a1a716d62cc))
+* Fixing dependencies ([08709183abd3493131b3b10eb00e3f7437617983](https://github.com/advanced-rest-client/arc-tools/commit/08709183abd3493131b3b10eb00e3f7437617983))
+* Fixing dependencies ([7b8c498b2273c3ca2ffc258db4d10a5ba0fdb92b](https://github.com/advanced-rest-client/arc-tools/commit/7b8c498b2273c3ca2ffc258db4d10a5ba0fdb92b))
+* Fixing dependencies ([fb75bc7a51031202ab7d2dd28957254b03d22879](https://github.com/advanced-rest-client/arc-tools/commit/fb75bc7a51031202ab7d2dd28957254b03d22879))
+* fixing travis env variables usage ([c52b2b7e1abb29f9f066403adc49faef7a1bbb3d](https://github.com/advanced-rest-client/arc-tools/commit/c52b2b7e1abb29f9f066403adc49faef7a1bbb3d))
+
+### New
+
+* Added repo command ([4533db16772854bae21d3a5f0f48a902a0866186](https://github.com/advanced-rest-client/arc-tools/commit/4533db16772854bae21d3a5f0f48a902a0866186))
+* Added stage command ([a7f2be36ab59534ded3a865aab2a2d0c17018914](https://github.com/advanced-rest-client/arc-tools/commit/a7f2be36ab59534ded3a865aab2a2d0c17018914))
+
+### Update
+
+* removed unused or redundant dependencies ([63e092907edbadec118f7be9a673082be21789aa](https://github.com/advanced-rest-client/arc-tools/commit/63e092907edbadec118f7be9a673082be21789aa))
+
+
+
 <a name="1.0.19"></a>
 ## [1.0.19](https://github.com/advanced-rest-client/arc-tools/compare/1.0.18...v1.0.19) (2016-09-27)
 
