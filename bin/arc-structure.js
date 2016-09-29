@@ -11,7 +11,7 @@ const colors = require('colors/safe');
 program
   .usage('[options] [components...]')
   .option('-A, --all', 'update structure database for all components')
-  .option('-R, --release', 'make structure elements release after adding new elements')
+  .option('-r, --release', 'make structure elements release after adding new elements')
   .option('--verbose', 'Display messages');
 
 program.on('--help', () => {
