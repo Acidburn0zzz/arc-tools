@@ -1,6 +1,6 @@
 {
   "name": "arc-tools",
-  "version": "1.0.30",
+  "version": "1.0.31",
   "description": "A set of dev tools for Advanced REST client",
   "main": "main.js",
   "scripts": {
