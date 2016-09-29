@@ -41,7 +41,13 @@ if (!program.all) {
 }
 try {
   const script = new structure.ArcStructure(opts);
-  script.run();
+  script.run().then(() => {
+    process.exit(0);
+  }).catch((err) => {
+    console.log(colors.red('  ' + err.message));
+    console.log(err);
+    process.exit(1);
+  });
 } catch (e) {
   console.log(colors.red('  ' + e.message));
   program.outputHelp();
