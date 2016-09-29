@@ -13,6 +13,7 @@ program
   .option('-S, --ssh', 'force ssh git path')
   .option('-A, --all', 'clone all repositories')
   .option('-n, --no-deps', 'do not download dependencies for the element')
+  .option('-q, --quiet', 'Limit output (e.g. don\'t run spinner.)')
   .parse(process.argv);
 
 var pkgs = program.args;
@@ -25,7 +26,8 @@ if (!pkgs.length && !program.all) {
 var opts = {
   ssh: program.ssh || false,
   all: program.all || false,
-  noDeps: program.noDeps || false
+  noDeps: program.noDeps || false,
+  quiet: program.quiet || false
 };
 if (!program.all) {
   opts.components = pkgs;
