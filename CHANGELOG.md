@@ -1,3 +1,13 @@
+<a name="1.0.35"></a>
+## [1.0.35](https://github.com/advanced-rest-client/arc-tools/compare/1.0.34...v1.0.35) (2016-09-29)
+
+
+### New
+
+* Added new options ([a6523aabe9d4024bef74444b65529ca316443f4e](https://github.com/advanced-rest-client/arc-tools/commit/a6523aabe9d4024bef74444b65529ca316443f4e))
+
+
+
 <a name="1.0.34"></a>
 ## [1.0.34](https://github.com/advanced-rest-client/arc-tools/compare/1.0.33...v1.0.34) (2016-09-29)
 
