@@ -1,3 +1,18 @@
+<a name="1.0.23"></a>
+## [1.0.23](https://github.com/advanced-rest-client/arc-tools/compare/1.0.20...v1.0.23) (2016-09-29)
+
+
+### Fix
+
+* Fixed structure command ([2b930675f4c4cedc198488f12ea9644ea16b2611](https://github.com/advanced-rest-client/arc-tools/commit/2b930675f4c4cedc198488f12ea9644ea16b2611))
+* fixing CI command ([cf0654773069978edcec563e659558b65482306c](https://github.com/advanced-rest-client/arc-tools/commit/cf0654773069978edcec563e659558b65482306c))
+
+### New
+
+* Added master-release command ([a905667935ae5ac4d807e49a5caae46b21a978c2](https://github.com/advanced-rest-client/arc-tools/commit/a905667935ae5ac4d807e49a5caae46b21a978c2))
+
+
+
 <a name="1.0.22"></a>
 ## [1.0.22](https://github.com/advanced-rest-client/arc-tools/compare/1.0.21...v1.0.22) (2016-09-28)
 
