@@ -1,3 +1,13 @@
+<a name="1.0.38"></a>
+## [1.0.38](https://github.com/advanced-rest-client/arc-tools/compare/1.0.37...v1.0.38) (2016-10-02)
+
+
+### Fix
+
+* git pull on structure element will reset the element to the origin/master when there's an error during regular pull ([8380d66aab1bd16399813609fb1f3ddc888d3c22](https://github.com/advanced-rest-client/arc-tools/commit/8380d66aab1bd16399813609fb1f3ddc888d3c22))
+
+
+
 <a name="1.0.37"></a>
 ## [1.0.37](https://github.com/advanced-rest-client/arc-tools/compare/1.0.36...v1.0.37) (2016-09-29)
 
