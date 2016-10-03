@@ -1,3 +1,13 @@
+<a name="1.1.39"></a>
+## [1.1.39](https://github.com/advanced-rest-client/arc-tools/compare/1.0.38...v1.1.39) (2016-10-03)
+
+
+### Breaking
+
+* Change in the clone command. Now it will use ssh by default and leaving '--no-ssh' option to clone over http ([9c40b9cace592ae8227a97584dfea00a69a153f5](https://github.com/advanced-rest-client/arc-tools/commit/9c40b9cace592ae8227a97584dfea00a69a153f5))
+
+
+
 <a name="1.0.38"></a>
 ## [1.0.38](https://github.com/advanced-rest-client/arc-tools/compare/1.0.37...v1.0.38) (2016-10-02)
 
