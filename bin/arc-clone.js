@@ -10,7 +10,7 @@ const colors = require('colors/safe');
 
 program
   .usage('[options] [components...]')
-  .option('-S, --ssh', 'force ssh git path')
+  .option('-S, --no-ssh', 'force http git path instead of ssh')
   .option('-A, --all', 'clone all repositories')
   .option('-n, --no-deps', 'do not download dependencies for the element')
   .option('-q, --quiet', 'Limit output (e.g. don\'t run spinner.)')
@@ -24,7 +24,7 @@ if (!pkgs.length && !program.all) {
   process.exit(1);
 }
 var opts = {
-  ssh: program.ssh || false,
+  noSsh: program.noSsh || false,
   all: program.all || false,
   noDeps: program.noDeps || false,
   quiet: program.quiet || false
