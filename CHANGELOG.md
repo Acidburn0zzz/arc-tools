@@ -1,3 +1,37 @@
+<a name="1.2.41"></a>
+## [1.2.41](https://github.com/advanced-rest-client/arc-tools/compare/1.0.22...v1.2.41) (2016-10-04)
+
+
+### Breaking
+
+* Change in the clone command. Now it will use ssh by default and leaving '--no-ssh' option to clone over http ([9c40b9cace592ae8227a97584dfea00a69a153f5](https://github.com/advanced-rest-client/arc-tools/commit/9c40b9cace592ae8227a97584dfea00a69a153f5))
+* Commands chnaged. Removed option quiet since the spinner has been removed as well. All commands now have option 'verbose' to display log messages. Created base class for common methods and cleaned code ([3014c96e6cee542dd7d45391318c29fffb88a92f](https://github.com/advanced-rest-client/arc-tools/commit/3014c96e6cee542dd7d45391318c29fffb88a92f))
+
+### Fix
+
+* Fixed issues with arc clone command: fixed paths resolover, fixed error catching and reacting on errors ([282c6992f4d3630ae76ba72271b985765cefc348](https://github.com/advanced-rest-client/arc-tools/commit/282c6992f4d3630ae76ba72271b985765cefc348))
+* Fixed structure command ([2b930675f4c4cedc198488f12ea9644ea16b2611](https://github.com/advanced-rest-client/arc-tools/commit/2b930675f4c4cedc198488f12ea9644ea16b2611))
+* git pull on structure element will reset the element to the origin/master when there's an error during regular pull ([8380d66aab1bd16399813609fb1f3ddc888d3c22](https://github.com/advanced-rest-client/arc-tools/commit/8380d66aab1bd16399813609fb1f3ddc888d3c22))
+
+### New
+
+* Added new options ([ee66fadc9294e82da8e40629ea0c8d30bb416853](https://github.com/advanced-rest-client/arc-tools/commit/ee66fadc9294e82da8e40629ea0c8d30bb416853))
+* Added new options ([555d417549f19eaf3994fdda6374548bc4f31264](https://github.com/advanced-rest-client/arc-tools/commit/555d417549f19eaf3994fdda6374548bc4f31264))
+* Added new options ([a6523aabe9d4024bef74444b65529ca316443f4e](https://github.com/advanced-rest-client/arc-tools/commit/a6523aabe9d4024bef74444b65529ca316443f4e))
+* Added new options ([cd9184537ff44b4df2bbe500a86694caaf771eed](https://github.com/advanced-rest-client/arc-tools/commit/cd9184537ff44b4df2bbe500a86694caaf771eed))
+* Added new options ([1ebd66b16b55c27baf1a06327b464e53b0935676](https://github.com/advanced-rest-client/arc-tools/commit/1ebd66b16b55c27baf1a06327b464e53b0935676))
+* Added new options ([26361426995a965f18b1c05fcc3ca34cae112b65](https://github.com/advanced-rest-client/arc-tools/commit/26361426995a965f18b1c05fcc3ca34cae112b65))
+* Added new options ([639e1c6a67dfb70fe8f1278d3b238bbf7a6832f4](https://github.com/advanced-rest-client/arc-tools/commit/639e1c6a67dfb70fe8f1278d3b238bbf7a6832f4))
+* Added new options ([c8ba4c2b7ff524670d1464ed885b74370a0813a5](https://github.com/advanced-rest-client/arc-tools/commit/c8ba4c2b7ff524670d1464ed885b74370a0813a5))
+* Added new options ([930370bafeb70a4621154bac94d2807c8f90322e](https://github.com/advanced-rest-client/arc-tools/commit/930370bafeb70a4621154bac94d2807c8f90322e))
+* Added new options ([1cbfe609eca2b087751ae88b88c604d71eef2e45](https://github.com/advanced-rest-client/arc-tools/commit/1cbfe609eca2b087751ae88b88c604d71eef2e45))
+* Added new options ([4b63ac82c5bef80db34ac6ca53b568fde41d7f63](https://github.com/advanced-rest-client/arc-tools/commit/4b63ac82c5bef80db34ac6ca53b568fde41d7f63))
+* Added new options ([fbdadfc8890b2f7fde8ca98fb0aa44e0d0b7fefd](https://github.com/advanced-rest-client/arc-tools/commit/fbdadfc8890b2f7fde8ca98fb0aa44e0d0b7fefd))
+* Added new options ([616421cb3458829ccd7173d0deda45679108899f](https://github.com/advanced-rest-client/arc-tools/commit/616421cb3458829ccd7173d0deda45679108899f))
+* Added new options ([662f885ee0c2d2e18dbd56a1cd9e116e47bf1bbb](https://github.com/advanced-rest-client/arc-tools/commit/662f885ee0c2d2e18dbd56a1cd9e116e47bf1bbb))
+
+
+
 <a name="1.2.40"></a>
 ## [1.2.40](https://github.com/advanced-rest-client/arc-tools/compare/1.1.39...v1.2.40) (2016-10-04)
 
