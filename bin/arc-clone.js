@@ -13,12 +13,12 @@ program
   .option('-S, --no-ssh', 'force http git path instead of ssh')
   .option('-A, --all', 'clone all repositories')
   .option('-n, --no-deps', 'do not download dependencies for the element')
-  .option('-q, --quiet', 'Limit output (e.g. don\'t run spinner.)')
+  .option('--verbose', 'Display messages')
   .parse(process.argv);
 
 var pkgs = program.args;
-console.log();
 if (!pkgs.length && !program.all) {
+  console.log();
   console.log(colors.red('  No components specified. Use --all to clone all components.'));
   program.outputHelp();
   process.exit(1);

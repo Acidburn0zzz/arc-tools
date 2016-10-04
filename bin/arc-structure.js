@@ -12,7 +12,6 @@ program
   .usage('[options] [components...]')
   .option('-A, --all', 'update structure database for all components')
   .option('-r, --release', 'make structure elements release after adding new elements')
-  .option('-q, --quiet', 'Limit output (e.g. don\'t run spinner.)')
   .option('--verbose', 'Display messages');
 
 program.on('--help', () => {

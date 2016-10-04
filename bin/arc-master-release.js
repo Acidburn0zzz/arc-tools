@@ -17,7 +17,7 @@ function release() {
       type: 'oauth',
       token: process.env.GITHUB_TOKEN
     }, {
-      preset: 'angular' // Or to any other commit message convention you use.
+      preset: 'eslint'
     }, (err) => {
       if (err) {
         return reject(err);

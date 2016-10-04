@@ -33,4 +33,5 @@ program
     'Generate changelog for current element.')
   .command('repo <command>',
     'Perform an operation on ARC\'s GitHub repository.')
+  .command('test', 'Test')
   .parse(process.argv);
