@@ -34,8 +34,7 @@ console.log();
 var opts = {
   all: program.all || false,
   release: program.release || false,
-  verbose: program.verbose || false,
-  quiet: program.quiet || false
+  verbose: program.verbose || false
 };
 if (!program.all) {
   opts.components = pkgs;

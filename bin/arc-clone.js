@@ -27,14 +27,16 @@ var opts = {
   noSsh: program.noSsh || false,
   all: program.all || false,
   noDeps: program.noDeps || false,
-  quiet: program.quiet || false
+  verbose: program.verbose || false
 };
 if (!program.all) {
   opts.components = pkgs;
 }
 try {
   const script = new clone.ArcClone(opts);
-  script.run();
+  script.run()
+  .then(() => console.log('Cloned with great success'))
+  .catch((err) => console.error(err));
 } catch (e) {
   console.log(colors.red('  ' + e.message));
   program.outputHelp();
