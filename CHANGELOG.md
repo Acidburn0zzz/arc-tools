@@ -1,3 +1,13 @@
+<a name="1.2.40"></a>
+## [1.2.40](https://github.com/advanced-rest-client/arc-tools/compare/1.1.39...v1.2.40) (2016-10-04)
+
+
+### Breaking
+
+* Commands chnaged. Removed option quiet since the spinner has been removed as well. All commands now have option 'verbose' to display log messages. Created base class for common methods and cleaned code ([3014c96e6cee542dd7d45391318c29fffb88a92f](https://github.com/advanced-rest-client/arc-tools/commit/3014c96e6cee542dd7d45391318c29fffb88a92f))
+
+
+
 <a name="1.1.39"></a>
 ## [1.1.39](https://github.com/advanced-rest-client/arc-tools/compare/1.0.38...v1.1.39) (2016-10-03)
 
