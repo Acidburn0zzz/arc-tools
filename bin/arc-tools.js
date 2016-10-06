@@ -15,23 +15,24 @@ updateNotifier({pkg: packageJson}).notify();
 program
   .version(packageJson.version)
   .description('The ARC developer tools')
-  .command('clone <component> [otherComponents...]',
-    'Clone or pull advanced-rest-client repositories into the current folder.')
-  .command('catalog [command]', 'Run an ARC\'s catalog command')
-  .command('docs <component> [otherComponents...]', 'Generate docs for given components')
   .command('release <target>',
-    'Build the app for give <release>, update git repository and publish the app in the store.')
+    'Builds the app for given <release>, update git repository and publish the app in ' +
+    'the Chrome Web Store')
+  .command('clone <component> [otherComponents...]',
+    'Clones or pulls advanced-rest-client\'s repositories into the current folder')
+  // .command('catalog [command]', 'Runs an ARC\'s catalog command')
+  .command('docs <component> [otherComponents...]',
+    'Generates docs for given components')
   .command('structure [component] [otherComponents...]',
-    'Update structure database for the elements catalog.')
-  .command('stage <component>',
-    'CI command. Build element from stage branch.')
-  .command('master-release',
-    'CI command. Release element from master branch.')
+    'Updates structure database for the elements catalog')
   .command('bump <version>',
-    'Bump version of the element.')
+    'Bumps version of current element')
   .command('changelog',
-    'Generate changelog for current element.')
+    'Generates changelog for current element')
   .command('repo <command>',
-    'Perform an operation on ARC\'s GitHub repository.')
-  .command('test', 'Test')
+    'Performs an operation on ARC GitHub\'s repository')
+  .command('stage <component>',
+    'CI command. Builds element from stage branch')
+  .command('master-release',
+    'CI command. Releases element from master branch')
   .parse(process.argv);
