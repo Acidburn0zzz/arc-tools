@@ -1,3 +1,25 @@
+<a name="1.2.43"></a>
+## [1.2.43](https://github.com/advanced-rest-client/arc-tools/compare/1.2.42...v1.2.43) (2016-10-06)
+
+
+### Docs
+
+* Created docs for the tools ([ba87917d6183a85432b649b1b9f39f75ca90f6a1](https://github.com/advanced-rest-client/arc-tools/commit/ba87917d6183a85432b649b1b9f39f75ca90f6a1))
+
+### Fix
+
+* Fixed invalid options parsing ([923b908d7b20a0904a8e1c72b08123db01252e28](https://github.com/advanced-rest-client/arc-tools/commit/923b908d7b20a0904a8e1c72b08123db01252e28))
+
+### New
+
+* Added dependencyci.yml file ([65368fee99189e003563185481a028275a214af2](https://github.com/advanced-rest-client/arc-tools/commit/65368fee99189e003563185481a028275a214af2))
+
+### Update
+
+* Removed unused commands ([cf094333efc3fbc003dca8ff727cbe49457adfef](https://github.com/advanced-rest-client/arc-tools/commit/cf094333efc3fbc003dca8ff727cbe49457adfef))
+
+
+
 <a name="1.2.42"></a>
 ## [1.2.42](https://github.com/advanced-rest-client/arc-tools/compare/1.2.40...v1.2.42) (2016-10-06)
 
