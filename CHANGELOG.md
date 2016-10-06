@@ -1,3 +1,18 @@
+<a name="1.2.42"></a>
+## [1.2.42](https://github.com/advanced-rest-client/arc-tools/compare/1.2.40...v1.2.42) (2016-10-06)
+
+
+### Fix
+
+* Fixed issues with arc clone command: fixed paths resolover, fixed error catching and reacting on errors ([282c6992f4d3630ae76ba72271b985765cefc348](https://github.com/advanced-rest-client/arc-tools/commit/282c6992f4d3630ae76ba72271b985765cefc348))
+
+### Update
+
+* Added path for message output on clone command ([cc82fca7d76d3c0cb2de66c96a608a78cb081066](https://github.com/advanced-rest-client/arc-tools/commit/cc82fca7d76d3c0cb2de66c96a608a78cb081066))
+* Cleaned code ([3ead18774fa56447ac3c5a301d729238e31e403c](https://github.com/advanced-rest-client/arc-tools/commit/3ead18774fa56447ac3c5a301d729238e31e403c))
+
+
+
 <a name="1.2.41"></a>
 ## [1.2.41](https://github.com/advanced-rest-client/arc-tools/compare/1.0.22...v1.2.41) (2016-10-04)
 
