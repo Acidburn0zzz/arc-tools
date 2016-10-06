@@ -23,10 +23,11 @@ if (!pkgs.length && !program.all) {
   program.outputHelp();
   process.exit(1);
 }
+
 var opts = {
-  noSsh: program.noSsh || false,
+  noSsh: !program.ssh,
+  noDeps: !program.deps,
   all: program.all || false,
-  noDeps: program.noDeps || false,
   verbose: program.verbose || false
 };
 if (!program.all) {
