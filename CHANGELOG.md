@@ -1,3 +1,13 @@
+<a name="1.2.44"></a>
+## [1.2.44](https://github.com/advanced-rest-client/arc-tools/compare/1.2.43...v1.2.44) (2016-10-07)
+
+
+### Fix
+
+* Fixed issue with reading a bower file in current directory ([1ad7912d25c16e0a88d13dde4b48226b842f9ef5](https://github.com/advanced-rest-client/arc-tools/commit/1ad7912d25c16e0a88d13dde4b48226b842f9ef5))
+
+
+
 <a name="1.2.43"></a>
 ## [1.2.43](https://github.com/advanced-rest-client/arc-tools/compare/1.2.42...v1.2.43) (2016-10-06)
 
