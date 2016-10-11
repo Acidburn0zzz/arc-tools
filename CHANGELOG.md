@@ -1,3 +1,29 @@
+<a name="1.2.45"></a>
+## [1.2.45](https://github.com/advanced-rest-client/arc-tools/compare/1.2.41...v1.2.45) (2016-10-11)
+
+
+### Docs
+
+* Created docs for the tools ([ba87917d6183a85432b649b1b9f39f75ca90f6a1](https://github.com/advanced-rest-client/arc-tools/commit/ba87917d6183a85432b649b1b9f39f75ca90f6a1))
+
+### Fix
+
+* Fix for commands in git pull function ([7216fe67c65f8eae73614d4f7df6795ee153a2d4](https://github.com/advanced-rest-client/arc-tools/commit/7216fe67c65f8eae73614d4f7df6795ee153a2d4))
+* Fixed invalid options parsing ([923b908d7b20a0904a8e1c72b08123db01252e28](https://github.com/advanced-rest-client/arc-tools/commit/923b908d7b20a0904a8e1c72b08123db01252e28))
+* Fixed issue with reading a bower file in current directory ([1ad7912d25c16e0a88d13dde4b48226b842f9ef5](https://github.com/advanced-rest-client/arc-tools/commit/1ad7912d25c16e0a88d13dde4b48226b842f9ef5))
+
+### New
+
+* Added dependencyci.yml file ([65368fee99189e003563185481a028275a214af2](https://github.com/advanced-rest-client/arc-tools/commit/65368fee99189e003563185481a028275a214af2))
+
+### Update
+
+* Added path for message output on clone command ([cc82fca7d76d3c0cb2de66c96a608a78cb081066](https://github.com/advanced-rest-client/arc-tools/commit/cc82fca7d76d3c0cb2de66c96a608a78cb081066))
+* Cleaned code ([3ead18774fa56447ac3c5a301d729238e31e403c](https://github.com/advanced-rest-client/arc-tools/commit/3ead18774fa56447ac3c5a301d729238e31e403c))
+* Removed unused commands ([cf094333efc3fbc003dca8ff727cbe49457adfef](https://github.com/advanced-rest-client/arc-tools/commit/cf094333efc3fbc003dca8ff727cbe49457adfef))
+
+
+
 <a name="1.2.44"></a>
 ## [1.2.44](https://github.com/advanced-rest-client/arc-tools/compare/1.2.43...v1.2.44) (2016-10-07)
 
