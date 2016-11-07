@@ -1,3 +1,13 @@
+<a name="1.2.47"></a>
+## [1.2.47](https://github.com/advanced-rest-client/arc-tools/compare/1.2.46...v1.2.47) (2016-11-07)
+
+
+### Update
+
+* Updated clone command, fixed cloning errors and the comman will now check for bower/package changes in the changees list. Also, bower/npm update is not performed by the script  ([185cfa9ab0a322f9f0c298f0a705d000703be595](https://github.com/advanced-rest-client/arc-tools/commit/185cfa9ab0a322f9f0c298f0a705d000703be595))
+
+
+
 <a name="1.2.46"></a>
 ## [1.2.46](https://github.com/advanced-rest-client/arc-tools/compare/1.2.45...v1.2.46) (2016-11-07)
 
