@@ -1,3 +1,13 @@
+<a name="1.2.46"></a>
+## [1.2.46](https://github.com/advanced-rest-client/arc-tools/compare/1.2.45...v1.2.46) (2016-11-07)
+
+
+### Fix
+
+* Fixed script for structure command ([18e881f91426ed941a72074e44d04da511c34769](https://github.com/advanced-rest-client/arc-tools/commit/18e881f91426ed941a72074e44d04da511c34769))
+
+
+
 <a name="1.2.45"></a>
 ## [1.2.45](https://github.com/advanced-rest-client/arc-tools/compare/1.2.41...v1.2.45) (2016-10-11)
 
