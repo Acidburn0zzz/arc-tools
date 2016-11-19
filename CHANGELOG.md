@@ -1,3 +1,13 @@
+<a name="1.2.48"></a>
+## [1.2.48](https://github.com/advanced-rest-client/arc-tools/compare/1.2.47...v1.2.48) (2016-11-19)
+
+
+### Update
+
+* Fixed stage command, now it will work outside the element's directory. Cleared code and integrated with other commands internally ([44ab3fbad9edd83699a59e543aa22dfb18c10d6c](https://github.com/advanced-rest-client/arc-tools/commit/44ab3fbad9edd83699a59e543aa22dfb18c10d6c))
+
+
+
 <a name="1.2.47"></a>
 ## [1.2.47](https://github.com/advanced-rest-client/arc-tools/compare/1.2.46...v1.2.47) (2016-11-07)
 
