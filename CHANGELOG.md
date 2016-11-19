@@ -1,3 +1,13 @@
+<a name="1.2.49"></a>
+## [1.2.49](https://github.com/advanced-rest-client/arc-tools/compare/1.2.48...v1.2.49) (2016-11-19)
+
+
+### Update
+
+* Changed automated commit message ([04a6b39a6658053d3e9df22abe117d01819edc51](https://github.com/advanced-rest-client/arc-tools/commit/04a6b39a6658053d3e9df22abe117d01819edc51))
+
+
+
 <a name="1.2.48"></a>
 ## [1.2.48](https://github.com/advanced-rest-client/arc-tools/compare/1.2.47...v1.2.48) (2016-11-19)
 
