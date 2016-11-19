@@ -1,3 +1,13 @@
+<a name="1.2.52"></a>
+## [1.2.52](https://github.com/advanced-rest-client/arc-tools/compare/1.2.51...v1.2.52) (2016-11-19)
+
+
+### Fix
+
+* Added branch name to git merge when marging master with stage ([b6e77788c5a719ae64a299e0c9ccb774912e0297](https://github.com/advanced-rest-client/arc-tools/commit/b6e77788c5a719ae64a299e0c9ccb774912e0297))
+
+
+
 <a name="1.2.51"></a>
 ## [1.2.51](https://github.com/advanced-rest-client/arc-tools/compare/1.2.50...v1.2.51) (2016-11-19)
 
