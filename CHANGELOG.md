@@ -1,3 +1,13 @@
+<a name="1.2.50"></a>
+## [1.2.50](https://github.com/advanced-rest-client/arc-tools/compare/1.2.49...v1.2.50) (2016-11-19)
+
+
+### Update
+
+* Added more verbose output ([513ea5fa04a15f9241329b64518fcba9355b0d47](https://github.com/advanced-rest-client/arc-tools/commit/513ea5fa04a15f9241329b64518fcba9355b0d47))
+
+
+
 <a name="1.2.49"></a>
 ## [1.2.49](https://github.com/advanced-rest-client/arc-tools/compare/1.2.48...v1.2.49) (2016-11-19)
 
