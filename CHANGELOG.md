@@ -1,3 +1,13 @@
+<a name="1.2.54"></a>
+## [1.2.54](https://github.com/advanced-rest-client/arc-tools/compare/1.2.53...v1.2.54) (2016-11-21)
+
+
+### Update
+
+* Added JSON formatter to the bump script ([c97f827533b52334fbe3757affc196098ec7fa0a](https://github.com/advanced-rest-client/arc-tools/commit/c97f827533b52334fbe3757affc196098ec7fa0a))
+
+
+
 <a name="1.2.53"></a>
 ## [1.2.53](https://github.com/advanced-rest-client/arc-tools/compare/1.2.52...v1.2.53) (2016-11-19)
 
