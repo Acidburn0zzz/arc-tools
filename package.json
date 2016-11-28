@@ -31,7 +31,6 @@
     "gulp": "^3.8.5",
     "gulp-bump": "^2.1.0",
     "gulp-conventional-changelog": "^1.1.0",
-    "gulp-git": "^1.11.3",
     "gulp-usemin": "^0.3.24",
     "http": "0.0.0",
     "https": "^1.0.0",
