@@ -1,3 +1,13 @@
+<a name="1.2.56"></a>
+## [1.2.56](https://github.com/advanced-rest-client/arc-tools/compare/1.2.55...v1.2.56) (2016-11-29)
+
+
+### Update
+
+* added reset option when merging with master ([f8a7abc0162cd4f3b48181cda14eba5f7c26180a](https://github.com/advanced-rest-client/arc-tools/commit/f8a7abc0162cd4f3b48181cda14eba5f7c26180a))
+
+
+
 <a name="1.2.54"></a>
 ## [1.2.54](https://github.com/advanced-rest-client/arc-tools/compare/1.2.53...v1.2.54) (2016-11-21)
 
