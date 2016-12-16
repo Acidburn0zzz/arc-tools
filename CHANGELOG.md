@@ -1,3 +1,9 @@
+<a name="1.2.57"></a>
+## [1.2.57](https://github.com/advanced-rest-client/arc-tools/compare/1.2.56...v1.2.57) (2016-12-16)
+
+
+
+
 <a name="1.2.56"></a>
 ## [1.2.56](https://github.com/advanced-rest-client/arc-tools/compare/1.2.55...v1.2.56) (2016-11-29)
 
