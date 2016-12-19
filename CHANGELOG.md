@@ -1,3 +1,13 @@
+<a name="1.2.58"></a>
+## [1.2.58](https://github.com/advanced-rest-client/arc-tools/compare/1.2.57...v1.2.58) (2016-12-19)
+
+
+### Fix
+
+* Fixed paths in staging command ([b580ad94c6fb62e6f2864d19e869ee9c5cc6c0e0](https://github.com/advanced-rest-client/arc-tools/commit/b580ad94c6fb62e6f2864d19e869ee9c5cc6c0e0))
+
+
+
 <a name="1.2.57"></a>
 ## [1.2.57](https://github.com/advanced-rest-client/arc-tools/compare/1.2.56...v1.2.57) (2016-12-16)
 
