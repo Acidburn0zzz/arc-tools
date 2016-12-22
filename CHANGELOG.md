@@ -1,3 +1,13 @@
+<a name="1.2.59"></a>
+## [1.2.59](https://github.com/advanced-rest-client/arc-tools/compare/1.2.58...v1.2.59) (2016-12-22)
+
+
+### Fix
+
+* Fixed stage command - now it will push changes to stage before operating on master branch ([83df8eb4b6bd9c2d4bae34265b2b7a194057a7b2](https://github.com/advanced-rest-client/arc-tools/commit/83df8eb4b6bd9c2d4bae34265b2b7a194057a7b2))
+
+
+
 <a name="1.2.58"></a>
 ## [1.2.58](https://github.com/advanced-rest-client/arc-tools/compare/1.2.57...v1.2.58) (2016-12-19)
 
