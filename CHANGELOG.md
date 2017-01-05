@@ -1,3 +1,13 @@
+<a name="1.2.60"></a>
+## [1.2.60](https://github.com/advanced-rest-client/arc-tools/compare/1.2.59...v1.2.60) (2017-01-05)
+
+
+### Fix
+
+* Fixed an issue where the stage command failed when the package file wans't available ([071f97d2cc9104d78577f4337e7ae1d13ca82ca6](https://github.com/advanced-rest-client/arc-tools/commit/071f97d2cc9104d78577f4337e7ae1d13ca82ca6))
+
+
+
 <a name="1.2.59"></a>
 ## [1.2.59](https://github.com/advanced-rest-client/arc-tools/compare/1.2.58...v1.2.59) (2016-12-22)
 
