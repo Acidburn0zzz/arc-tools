@@ -1,3 +1,13 @@
+<a name="1.2.62"></a>
+## [1.2.62](https://github.com/advanced-rest-client/arc-tools/compare/1.2.61...v1.2.62) (2017-01-05)
+
+
+### Fix
+
+* Fixed an issue when the clone command failed if there's no stage or master branch ([833f621276feab60c12a139fa77a4bd995e1047d](https://github.com/advanced-rest-client/arc-tools/commit/833f621276feab60c12a139fa77a4bd995e1047d))
+
+
+
 <a name="1.2.61"></a>
 ## [1.2.61](https://github.com/advanced-rest-client/arc-tools/compare/1.2.60...v1.2.61) (2017-01-05)
 
