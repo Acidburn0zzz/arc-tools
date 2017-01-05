@@ -1,3 +1,13 @@
+<a name="1.2.61"></a>
+## [1.2.61](https://github.com/advanced-rest-client/arc-tools/compare/1.2.60...v1.2.61) (2017-01-05)
+
+
+### Fix
+
+* Fixed an issue when the stage command failed if there is not CHANGELOG.md file ([e3fab8ba257b3cc617893e4a9e48f4b3beedc6bb](https://github.com/advanced-rest-client/arc-tools/commit/e3fab8ba257b3cc617893e4a9e48f4b3beedc6bb))
+
+
+
 <a name="1.2.60"></a>
 ## [1.2.60](https://github.com/advanced-rest-client/arc-tools/compare/1.2.59...v1.2.60) (2017-01-05)
 
