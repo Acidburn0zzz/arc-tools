@@ -1,3 +1,13 @@
+<a name="1.2.63"></a>
+## [1.2.63](https://github.com/advanced-rest-client/arc-tools/compare/1.2.62...v1.2.63) (2017-01-09)
+
+
+### Fix
+
+* fixed result of the function that reads current git branch - now the result will be trimmed ([29f9515c87e8d8c3a38eb8e0275ad1ef37148b8c](https://github.com/advanced-rest-client/arc-tools/commit/29f9515c87e8d8c3a38eb8e0275ad1ef37148b8c))
+
+
+
 <a name="1.2.62"></a>
 ## [1.2.62](https://github.com/advanced-rest-client/arc-tools/compare/1.2.61...v1.2.62) (2017-01-05)
 
