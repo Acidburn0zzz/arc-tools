@@ -1,3 +1,18 @@
+<a name="1.2.64"></a>
+## [1.2.64](https://github.com/advanced-rest-client/arc-tools/compare/1.2.63...v1.2.64) (2017-01-11)
+
+
+### Fix
+
+* Fixed an issue when trying to pull a repo from non existing branch. Now it update active branch only ([7d97263fcd3be34dbff773e17f0b22c3256cf625](https://github.com/advanced-rest-client/arc-tools/commit/7d97263fcd3be34dbff773e17f0b22c3256cf625))
+
+### New
+
+* Added verbose message if bower and node is required to install ([4c52bc6f419aa336a655d89668eea19ae613f6d5](https://github.com/advanced-rest-client/arc-tools/commit/4c52bc6f419aa336a655d89668eea19ae613f6d5))
+* Moved to GraphQL for GitHub to list the repositories ([6ebc09bd4fcd4abf9539dd52eafac31c5a712bb1](https://github.com/advanced-rest-client/arc-tools/commit/6ebc09bd4fcd4abf9539dd52eafac31c5a712bb1))
+
+
+
 <a name="1.2.63"></a>
 ## [1.2.63](https://github.com/advanced-rest-client/arc-tools/compare/1.2.62...v1.2.63) (2017-01-09)
 
