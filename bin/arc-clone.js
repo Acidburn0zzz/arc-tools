@@ -13,6 +13,8 @@ program
   .option('-S, --no-ssh', 'force http git path instead of ssh')
   .option('-A, --all', 'clone all repositories')
   .option('-n, --no-deps', 'do not download dependencies for the element')
+  .option('-T --token', 'GitHub token which is required to list repositories. Set the ' +
+    'GITHUB_TOKEN variable to skip token passing.')
   .option('--verbose', 'Display messages')
   .parse(process.argv);
 
