@@ -1,3 +1,13 @@
+<a name="1.2.65"></a>
+## [1.2.65](https://github.com/advanced-rest-client/arc-tools/compare/1.2.64...v1.2.65) (2017-01-12)
+
+
+### Update
+
+* in the docs command, the badge will not point to the stage branch instead of master ([8c079a6056c36c0c34027203dad0cb58fd432748](https://github.com/advanced-rest-client/arc-tools/commit/8c079a6056c36c0c34027203dad0cb58fd432748))
+
+
+
 <a name="1.2.64"></a>
 ## [1.2.64](https://github.com/advanced-rest-client/arc-tools/compare/1.2.63...v1.2.64) (2017-01-11)
 
