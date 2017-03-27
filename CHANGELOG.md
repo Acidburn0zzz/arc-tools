@@ -1,3 +1,13 @@
+<a name="1.2.66"></a>
+## [1.2.66](https://github.com/advanced-rest-client/arc-tools/compare/1.2.65...v1.2.66) (2017-03-27)
+
+
+### Fix
+
+* Fixed issue when cloning new repo. Dir paths will be computed properly and code wilol be executed in element's directory ([196b8e15ae4213b64b6994f8dbefa7218b33d2c8](https://github.com/advanced-rest-client/arc-tools/commit/196b8e15ae4213b64b6994f8dbefa7218b33d2c8))
+
+
+
 <a name="1.2.65"></a>
 ## [1.2.65](https://github.com/advanced-rest-client/arc-tools/compare/1.2.64...v1.2.65) (2017-01-12)
 
