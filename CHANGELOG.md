@@ -1,3 +1,13 @@
+<a name="1.2.67"></a>
+## [1.2.67](https://github.com/advanced-rest-client/arc-tools/compare/1.2.66...v1.2.67) (2017-04-18)
+
+
+### Update
+
+* Now it will pull changes from stage when building the element ([4ece02060252bd6fca38237019f8d850e39328d6](https://github.com/advanced-rest-client/arc-tools/commit/4ece02060252bd6fca38237019f8d850e39328d6))
+
+
+
 <a name="1.2.66"></a>
 ## [1.2.66](https://github.com/advanced-rest-client/arc-tools/compare/1.2.65...v1.2.66) (2017-03-27)
 
