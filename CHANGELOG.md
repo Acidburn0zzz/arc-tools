@@ -1,3 +1,17 @@
+<a name="1.2.68"></a>
+## [1.2.68](https://github.com/advanced-rest-client/arc-tools/compare/1.2.67...v1.2.68) (2017-06-16)
+
+
+### Fix
+
+* Fixed issue with updating branch protection after change in the API ([2e8f2cfe890b30bbeceea2a769f09bfcab719306](https://github.com/advanced-rest-client/arc-tools/commit/2e8f2cfe890b30bbeceea2a769f09bfcab719306))
+
+### New
+
+* Added description when creating the repository ([b223c41ad8a1e250caa39f718a47c643c6f90fce](https://github.com/advanced-rest-client/arc-tools/commit/b223c41ad8a1e250caa39f718a47c643c6f90fce))
+
+
+
 <a name="1.2.67"></a>
 ## [1.2.67](https://github.com/advanced-rest-client/arc-tools/compare/1.2.66...v1.2.67) (2017-04-18)
 
