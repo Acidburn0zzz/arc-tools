@@ -1,3 +1,13 @@
+<a name="1.2.69"></a>
+## [1.2.69](https://github.com/advanced-rest-client/arc-tools/compare/1.2.68...v1.2.69) (2017-06-16)
+
+
+### Update
+
+* Added missing dependency ([668a9e64c095de4d3a7ecf3733ee54aee5afe72e](https://github.com/advanced-rest-client/arc-tools/commit/668a9e64c095de4d3a7ecf3733ee54aee5afe72e))
+
+
+
 <a name="1.2.68"></a>
 ## [1.2.68](https://github.com/advanced-rest-client/arc-tools/compare/1.2.67...v1.2.68) (2017-06-16)
 
